@@ -1,0 +1,16 @@
+{
+  "oldFileDays": 180,
+  "tempFileDays": 7,
+  "minOldFileSizeMB": 1,
+  "htmlMaxRows": 500,
+  "openReportAfterScan": true,
+  "scanApplications": true,
+  "scanBrowserCache": true,
+  "appInactivityDays": 180,
+  "additionalTempPaths": [],
+  "scheduledTask": {
+    "name": "WindowsDeepCleaner-SafeClean",
+    "dayOfWeek": "Sunday",
+    "time": "10:00"
+  }
+}
